@@ -1,3 +1,5 @@
+import math
+
 # Int
 total_count = 500
 user_age = 25
@@ -25,3 +27,6 @@ print(pow(3, 4)) # Power function
 print(max(5, 10)) # Maximum value
 print(min(5, 10)) # Minimum value
 
+# Working with math module
+print(math.ceil(10.54))
+print(math.floor(10.54))
