@@ -1,7 +1,19 @@
+# Int
 total_count = 500
-rating = 4.8
 user_age = 25
+
+# Float
+rating = 4.8
 
 print("total count :", total_count)
 print("rating :", rating)
 print("user age :", user_age)
+
+# Basic arithmetic operations
+print(10+2) # Addition
+print(10-2) # Subtraction
+print(10*2) # Multiplication
+print(10/2) # Division
+print(10//3) # Floor Division
+print(10%3) # Modulus
+print(10**2) # Exponentiation
